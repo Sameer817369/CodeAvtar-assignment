@@ -1,4 +1,4 @@
-5.	How the system works
+How the system works
  
 a)	OTP Verification:
 
